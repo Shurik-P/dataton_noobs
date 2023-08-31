@@ -21,3 +21,6 @@ Adam
 
 **С результатом проведенной работы можно ознакомиться в ноутбуке, который находится в данном репозитории.**
 [dog_shazam.ipynb](https://github.com/Shurik-P/dataton_noobs/blob/main/dog_shazam.ipynb)
+
+**Так же в репозитории представлена презентация проекта.**
+[Dataton2.pptx](https://github.com/Shurik-P/dataton_noobs/blob/main/Dataton2.pptx)
