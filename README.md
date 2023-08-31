@@ -11,10 +11,10 @@
 * [VisionTransformer](https://pytorch.org/vision/main/models/vision_transformer.html)
 
 #### Изменяемые параметры:
-Learning rate
-Scheduller
-N epochs
-N Frosen layers
+* Learning rate
+* Scheduller
+* N epochs
+* N Frosen layers
 
 #### Оптимизатор
 Adam
