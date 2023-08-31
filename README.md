@@ -6,7 +6,7 @@
 
 #### Предобученные модели из пакета *torchvision.models*:
 * [MobileNet V3](https://pytorch.org/vision/main/models/mobilenetv3.html)
-* [EfficientNetV2](https://pytorch.org/vision/main/models/efficientnetv2.html)
+* [EfficientNetB7](https://pytorch.org/vision/main/models/generated/torchvision.models.efficientnet_b7.html)
 * [ResNet50](https://pytorch.org/vision/main/models/resnet.html)
 * [VisionTransformer](https://pytorch.org/vision/main/models/vision_transformer.html)
 
